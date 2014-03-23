@@ -1,0 +1,35 @@
+{
+  "name": "grunt-flash-example",
+  "version": "0.0.0",
+  "description": "An example of how to build Flash/Flex apps with Grunt and Node.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/artema/grunt-flash-example.git"
+  },
+  "keywords": [
+    "grunt",
+    "flash",
+    "flex",
+    "actionscript",
+    "mxmlc",
+    "compc",
+    "as3"
+  ],
+  "author": {
+    "name": "Artem Abashev",
+    "email": "artem@abashev.com",
+    "url": "http://abashev.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artema/grunt-flash-example/issues"
+  },
+  "homepage": "https://github.com/artema/grunt-flash-example",
+  "devDependencies": {
+    "grunt": "^0.4.4"
+  }
+}

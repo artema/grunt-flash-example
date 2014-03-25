@@ -40,5 +40,5 @@ module.exports = function(grunt) {
     
     grunt.registerTask('test', ['clean', 'compc', 'mxmlc', 'clean']);
 
-    grunt.registerTask('default', ['test']);
+    grunt.registerTask('default', ['clean', 'compc', 'mxmlc']);
 };

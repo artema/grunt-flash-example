@@ -11,5 +11,9 @@ pids
 logs
 results
 
+bin
+bin-debug
+bin-release
+
 npm-debug.log
 node_modules

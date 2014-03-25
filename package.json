@@ -30,6 +30,10 @@
   },
   "homepage": "https://github.com/artema/grunt-flash-example",
   "devDependencies": {
-    "grunt": "^0.4.4"
+    "grunt": "^0.4.4",
+    "flex-sdk": "^4.6.0",
+    "grunt-mxmlc": "^0.5.0",
+    "grunt-compc": "^1.0.0",
+    "grunt-contrib-clean": "^0.5.0"
   }
 }
